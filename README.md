@@ -1,4 +1,4 @@
-# 🔪 CronoBench
+# 🔪 ChronoBench
 
 **CronoBench** is a PowerShell-based automation and benchmarking framework designed to measure response times of configurable HTTP endpoints. It is ideal for evaluating application warm-up performance, process initialization overhead, and the impact of different service configurations on response latency.
 
